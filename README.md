@@ -1,8 +1,8 @@
-OVERVIEW: A simple example projct using Java8, Spring Reactive Streams and MongoDb.
+OVERVIEW: A simple client using Java8, Spring Reactive Streams
 
-DEPENDENCIES: reservation-server project must also be running,
- as this client directly communicates with it.
+DEPENDENCIES: ticket-server project must also be running,
+ as this client directly communicates with the microservice for ticket information.
 
-i. reservation-client::Retrieve names of users
-http://localhost:9090/reservations/names
+i. Retrieve tickets
+http://localhost:9090/tickets/values
 
