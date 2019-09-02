@@ -1,4 +1,4 @@
-package com.bingobucket.client.entity;
+package com.ipsx.client.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

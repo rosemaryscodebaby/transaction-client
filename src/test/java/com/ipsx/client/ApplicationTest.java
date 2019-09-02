@@ -1,4 +1,4 @@
-package com.bingobucket.client;
+package com.ipsx.client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,6 +1,6 @@
-package com.bingobucket.client.configuration;
+package com.ipsx.client.configuration;
 
-import com.bingobucket.client.entity.Ticket;
+import com.ipsx.client.entity.Ticket;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 import org.springframework.web.reactive.function.client.WebClient;

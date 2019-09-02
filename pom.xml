@@ -8,10 +8,10 @@
 		<version>2.2.0.M5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>bingobucket-client</artifactId>
+	<groupId>com.ipsx</groupId>
+	<artifactId>transaction-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bingobucket-client</name>
+	<name>transaction-client</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
